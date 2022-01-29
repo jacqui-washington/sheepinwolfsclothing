@@ -1192,3 +1192,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.29-20.19.45:313][461]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.29-20.19.45:313][461]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.01.29-20.19.45:313][461]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.01.29-20.24.24:174][ 41]LogSlate: Took 0.017653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.29-20.25.18:431][439]LogSlate: Window 'Source Control Login' being destroyed
