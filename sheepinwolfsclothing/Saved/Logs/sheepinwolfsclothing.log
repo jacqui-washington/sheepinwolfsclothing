@@ -1174,3 +1174,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.29-19.52.06:030][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.01.29-19.52.06:338][  2]LogAssetRegistry: Asset discovery search completed in 30.1912 seconds
 [2022.01.29-19.52.06:368][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2022.01.29-20.02.32:084][302]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
+[2022.01.29-20.02.41:792][867]LogSlate: Window 'Tutorials' being destroyed
+[2022.01.29-20.02.41:803][867]LogSlate: Window 'Tutorials' being destroyed
+[2022.01.29-20.19.30:162][611]SourceControl: Source control is disabled
+[2022.01.29-20.19.33:408][804]LogSlate: Window 'Source Control Login' being destroyed
+[2022.01.29-20.19.35:841][949]LogSlate: Took 0.000751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.29-20.19.35:877][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.01.29-20.19.35:917][949]LogSavePackage: Moving '../../../../../../Users/jwash/Documents/GitHub/sheepinwolfsclothing/sheepinwolfsclothing/Saved/ThirdPersonExampleMapEE462FC54E1F08EDA0A39EA323D756D1.tmp' to '../../../../../../Users/jwash/Documents/GitHub/sheepinwolfsclothing/sheepinwolfsclothing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.01.29-20.19.36:075][949]LogSavePackage: Moving '../../../../../../Users/jwash/Documents/GitHub/sheepinwolfsclothing/sheepinwolfsclothing/Saved/ThirdPersonExampleMap_BuiltData829276984DA33C51E4E720B029CA5529.tmp' to '../../../../../../Users/jwash/Documents/GitHub/sheepinwolfsclothing/sheepinwolfsclothing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.01.29-20.19.36:085][949]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-20.19.36:085][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.01.29-20.19.36:085][949]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.01.29-20.19.45:179][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.01.29-20.19.45:197][461]LogSavePackage: Moving '../../../../../../Users/jwash/Documents/GitHub/sheepinwolfsclothing/sheepinwolfsclothing/Saved/ThirdPersonExampleMapB14DAC7448970AF8F44BFEB8F9F73B37.tmp' to '../../../../../../Users/jwash/Documents/GitHub/sheepinwolfsclothing/sheepinwolfsclothing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.01.29-20.19.45:302][461]LogSavePackage: Moving '../../../../../../Users/jwash/Documents/GitHub/sheepinwolfsclothing/sheepinwolfsclothing/Saved/ThirdPersonExampleMap_BuiltData316F05504429EF070CD7BBAF56973D3C.tmp' to '../../../../../../Users/jwash/Documents/GitHub/sheepinwolfsclothing/sheepinwolfsclothing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.01.29-20.19.45:313][461]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-20.19.45:313][461]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.01.29-20.19.45:313][461]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
